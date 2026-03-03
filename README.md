@@ -99,12 +99,6 @@ Security            →  Web application security testing, vulnerability
 - 🎓  Preparing for graduate studies (MSc)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eymen-iron&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eymen-iron&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eymen-iron&theme=github-dark-blue&hide_border=true" />
 </p>
